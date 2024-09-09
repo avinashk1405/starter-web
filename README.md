@@ -16,6 +16,8 @@ Simple project to understand Git And GitHub - Deployment
 
 ## How To Contribute
 
+Contribute to text added
+
 #### Copyright
 
  git training   
