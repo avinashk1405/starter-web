@@ -4,6 +4,8 @@ Simple project to understand Git And GitHUb
 
 ## Introduction
 
+Simple project to understand Git And GitHUb
+
 ## Purpose
 
 ## Deploment
