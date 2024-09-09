@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-Simple project to understand Git And GitHUb
+Simple project to understand Git And GitHUb.
+Adding a line for rebase example.
 
 ## Introduction
 
