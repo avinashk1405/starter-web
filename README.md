@@ -8,6 +8,8 @@ Simple project to understand Git And GitHUb
 
 ## Purpose
 
-## Deploment
+Simple project to understand Git And GitHub -Purpose
+
+## Deployment
 
 ## How To Contribute
