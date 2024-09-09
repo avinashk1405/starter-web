@@ -15,3 +15,7 @@ Simple project to understand Git And GitHub -Purpose
 Simple project to understand Git And GitHub - Deployment
 
 ## How To Contribute
+
+#### Copyright
+
+ git training   
