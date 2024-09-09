@@ -22,4 +22,4 @@ Contribute to text added
 
 #### Copyright
 
- git training   
+ git training   copyright
